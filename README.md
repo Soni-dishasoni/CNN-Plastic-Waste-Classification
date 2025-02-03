@@ -1,4 +1,4 @@
-# CNN Model for Plastic Waste Classification
+# CNN Model to Classify Image of Plastic Waste
 
 <h1 align="center">Hi there, I'm Disha Soni 👋</h1>
 <h3 align="center">Aspiring Software Engineer || Passionate about Learning, Building and Innovating</h3>
