@@ -6,4 +6,4 @@
 <p align="center">
   <a href="https://linkedin.com/in/soni-dishasoni"><img src="https://img.shields.io/badge/LinkedIn-Disha%20Soni-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/Soni-dishasoni"><img src="https://img.shields.io/badge/GitHub-Disha%20Soni-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto: dishasoni.work@email.com"><img src="https://img.shields.io/badge/Email-dishasoni.work@%40email.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto: dishasoni.work@gmail.com"><img src="https://img.shields.io/badge/Email-dishasoni.work@%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
